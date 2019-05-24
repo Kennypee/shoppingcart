@@ -197,14 +197,15 @@
     }
   
 
-  .item
+  .carousel multi
+ 
   {
       height: 600px;
       width: 1350px;
       display: inline-block;
   }
 
-  .item .active
+  .row 
   {
     height: 600px;
     width: 1350px;
