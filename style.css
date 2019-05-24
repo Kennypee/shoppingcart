@@ -1,0 +1,219 @@
+#box
+{
+    height: 1000px;
+    width: 1430px;
+}
+#box1
+{
+    height: 50px;
+    width: 1430px;
+    background-color: black;
+    color: white;
+
+}
+.box1a
+{
+    height: 30px;
+    width: 1400px;
+    background-color: grey;
+    color: white;
+    position: absolute;
+}
+#box2
+{
+    height: 300px;
+    width: 1430px;
+    background-color: blue;
+    
+}
+
+#box2a
+{
+    height: 50px;
+    width: 700px;
+    background-color: white;
+    margin: 0 auto;
+    position: absolute;
+    margin-top: 98px;
+    margin-left: 350px;
+    margin-right: 350px;
+
+
+    
+
+}
+.box2b
+{
+    height: 50px;
+    width: 100px;
+    background-color: black;
+    display: inline-block;
+    
+}
+.box2c
+{
+    height: 50px;
+    width: 595px;
+    background-color: red;
+    display: inline-block;
+    position: absolute;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.text
+{
+    height:30px;
+    width:595px;
+}
+#box3
+{
+    height:600px;
+    width: 1430px;
+    background-color:white;
+}
+#box4
+{
+    height: 800px;
+    width: 1350px;
+    background-color: lightgrey;
+    position: absolute;
+    top: 300px;
+    left: 50%;
+    margin-left: -670px;
+}
+#Secbox
+{
+    height:100px;
+    width: 1350px;
+    background-color: black;
+    
+}
+#sbox
+{
+    height: 60px;
+    width: 1310px;
+    background-color: red;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+#sbox1
+{
+    height: 60px;
+    width: 246px;
+    background-color: #3e8e41;
+    display: inline-block;
+    position: relative;
+    
+}
+.dropbtn {
+    background-color: lightgrey;
+    color: white;
+    padding: 16px;
+    font-size: 8px;
+    border: grey;
+    height: 60px;
+    width: 246px;
+    position: relative;
+  }
+  
+  .dropdown {
+    position: absolute;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 246px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #ddd;}
+  
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  .dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+
+#sbox2
+{
+    height: 60px;
+    width: 247px;
+    background-color: pink;
+    display: inline-block;
+    margin-left: 15px;
+}
+
+#sbox3
+{
+    height: 60px;
+    width: 247px;
+    background-color: purple;
+    display: inline-block;
+    margin-left: 15px;
+}
+#sbox4
+{
+    height: 60px;
+    width: 247px;
+    background-color: yellow;
+    display: inline-block;
+    margin-left: 15px;
+}
+#sbox5
+{
+    height: 60px;
+    width: 247px;
+    background-color: skyblue;
+    display: inline-block;
+    margin-left: 15px;
+}
+.multi 
+    .carousel-inner .active.left {
+      left: -25%;
+    }
+    .carousel-inner .next {
+      left:  25%;
+    }
+    .carousel-inner .prev {
+      left: -25%;
+    }
+    .carousel-control {
+      width:  4%;
+    }
+    .carousel-control.left, .carousel-control.right {
+      margin-left:15px;
+      background-image:none;
+    }
+  
+
+  .item
+  {
+      height: 600px;
+      width: 1350px;
+      display: inline-block;
+  }
+
+  .item .active
+  {
+    height: 600px;
+    width: 1350px;
+    display: inline-block;
+     
+  }
+  #Fbox
+  {
+      width: 1350px;
+      height:500px;
+      background-color: #3e8e41;
+  }
